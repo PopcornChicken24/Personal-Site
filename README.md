@@ -1,2 +1,3 @@
 # Personal-Site
-A website about me and what I like to do
+This website shows all my intersts 
+Like my favorite hobby,sport, and even my favorite food
